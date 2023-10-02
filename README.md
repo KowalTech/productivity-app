@@ -29,16 +29,16 @@ To get started with this Flutter productivity app, follow these steps:
 
 2. **Navigate to the Project Directory**
 
-  ```bash
-  cd productivity-app
+   ```bash
+   cd productivity-app
 
 3. **Install Dependencies**
-  ```bash
-  cd flutter pub get
+   ```bash
+   cd flutter pub get
 
 4. **Run the App**
-  ```bash
-  flutter run
+   ```bash
+   flutter run
 
 
 
